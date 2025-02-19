@@ -1,0 +1,22 @@
+# ninja log v5
+37	240	7550626937974169	CMakeFiles/Project2.dir/AbstractHero.cpp.obj	e6c6546b10d30a83
+53	1221	7550626947892838	CMakeFiles/Project2.dir/AgileHero.cpp.obj	7235af70ce88762e
+6	573	7616978736562921	build.ninja	e7a2f082f359ee02
+27	1779	7550626953462287	CMakeFiles/Project2.dir/main.cpp.obj	9ad2eab00acd2368
+1779	2070	7550626956334087	Project2.exe	ba0e234e9375049e
+45	1176	7550626947412733	CMakeFiles/Project2.dir/PowerfulHero.cpp.obj	ac61387d043aee71
+69	2263	7550580480220595	CMakeFiles/Project2.dir/AbstractItem.cpp.obj	bd5f86f41fbb1ed5
+79	2429	7550580481863812	CMakeFiles/Project2.dir/SwordItem.cpp.obj	fc7b404007267d66
+89	2409	7550580481652766	CMakeFiles/Project2.dir/ArmorItem.cpp.obj	929336a9f465ded8
+1899	3489	7550580492474044	CMakeFiles/Project2.dir/ShieldItem.cpp.obj	66dede0cfb18a7ef
+63	1684	7550626952517394	CMakeFiles/Project2.dir/EquippedHero.cpp.obj	862cbc7eb4080c89
+64	426	7616980049238520	CMakeFiles/Project2.dir/AbstractHero.cpp.obj	922f3de46701acd6
+74	1566	7616980060625399	CMakeFiles/Project2.dir/PowerfulHero.cpp.obj	3d1b59d87ae221e4
+82	1577	7616980060726298	CMakeFiles/Project2.dir/AgileHero.cpp.obj	50db13994ff65ab3
+103	2207	7616980066693307	CMakeFiles/Project2.dir/AbstractItem.cpp.obj	24615fc6e8350658
+113	2373	7616980068385175	CMakeFiles/Project2.dir/SwordItem.cpp.obj	d6003b73e1697987
+428	2492	7616980069951822	CMakeFiles/Project2.dir/ArmorItem.cpp.obj	40637bf2f61f03f2
+55	2589	7616980070948677	CMakeFiles/Project2.dir/main.cpp.obj	df80ea0c06877ed3
+1566	3550	7616980080517482	CMakeFiles/Project2.dir/ShieldItem.cpp.obj	5effe89c00404d88
+1577	3787	7616980082894933	CMakeFiles/Project2.dir/EquippedHero.cpp.obj	a080a841b086e4de
+3788	4268	7616980087658024	Project2.exe	ba0e234e9375049e
